@@ -1,0 +1,15 @@
+F:\Рабочий стол\praK_c\Examples_3\prak2\bin\Debug\net6.0\prak2.exe
+F:\Рабочий стол\praK_c\Examples_3\prak2\bin\Debug\net6.0\prak2.deps.json
+F:\Рабочий стол\praK_c\Examples_3\prak2\bin\Debug\net6.0\prak2.runtimeconfig.json
+F:\Рабочий стол\praK_c\Examples_3\prak2\bin\Debug\net6.0\prak2.dll
+F:\Рабочий стол\praK_c\Examples_3\prak2\bin\Debug\net6.0\prak2.pdb
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\prak2.csproj.AssemblyReference.cache
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\prak2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\prak2.AssemblyInfoInputs.cache
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\prak2.AssemblyInfo.cs
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\prak2.csproj.CoreCompileInputs.cache
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\prak2.dll
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\refint\prak2.dll
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\prak2.pdb
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\prak2.genruntimeconfig.cache
+F:\Рабочий стол\praK_c\Examples_3\prak2\obj\Debug\net6.0\ref\prak2.dll
